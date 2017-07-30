@@ -1,0 +1,41 @@
+  /* add your CSS here */
+
+  .image{
+  width: 300px;
+  height: auto;
+  border: 1px solid #eee;
+     }
+
+  p.animalfact {
+  font-style: italic;
+  }
+
+  span.thik{
+  font-weight: bold;
+  }
+
+  ul {
+  list-style-type: none;
+  padding-left: 5px;
+  }
+
+  .bordertest {
+  width: 300px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-radius: 2px;
+  border: 2px solid #eee;
+  -webkit-box-shadow: 10px 10px 3px 0px rgba(245,245,245,1);
+-moz-box-shadow: 10px 10px 3px 0px rgba(245,245,245,1);
+box-shadow: 10px 10px 3px 0px rgba(245,245,245,1);
+  }
+
+  .cardsborder
+  {
+  width: 300px;
+  padding-left: 5px;
+  border: 1px solid #eee;
+  box-sizing: border-box;
+  }
